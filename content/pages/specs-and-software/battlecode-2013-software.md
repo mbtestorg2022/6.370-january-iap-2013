@@ -198,26 +198,183 @@ The following settings can be used to enable or disable certain aspects of the e
 
 ### Shortcut Keys
 
-| KEYS | EFFECTS |
-| --- | --- |
-| A | Toggle unit sensor and attack ranges |
-| B | Toggle unit broadcasts |
-| D | Toggle discrete movement mode |
-| E | Toggle HP bars |
-| F | Toggle fast forward |
-| G | Toggle grid lines |
-| I | Toggle action lines |
-| J | Toggle slow-motion |
-| K | Toggle attack circles |
-| L | Toggle flux bars |
-| R | Toggle regeneration |
-| S | Skip 100 rounds |
-| T | Toggle transfers |
-| X | Toggle unit explosions |
-| / | Find unit by ID |
-| < | Pause |
-| \> | Pause |
-| Escape | Quit 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KEYS
+{{< thclose >}}
+{{< thopen >}}
+EFFECTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle unit sensor and attack ranges
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle unit broadcasts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle discrete movement mode
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle HP bars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle fast forward
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+G
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle grid lines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle action lines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+J
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle slow-motion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+K
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle attack circles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle flux bars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle regeneration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+Skip 100 rounds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle transfers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+Toggle unit explosions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+/
+{{< tdclose >}}
+{{< tdopen >}}
+Find unit by ID
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+\<
+{{< tdclose >}}
+{{< tdopen >}}
+Pause
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+\>
+{{< tdclose >}}
+{{< tdopen >}}
+Pause
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Escape
+{{< tdclose >}}
+{{< tdopen >}}
+Quit
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "scala" >}}{{< /anchor >}}Scala
 ------------------------------------------
